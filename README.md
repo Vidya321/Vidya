@@ -1,2 +1,2 @@
-# Vidya
+# Vidhya
 Hello
